@@ -1,4 +1,18 @@
 {
+  "permissions": {
+    "allow": [
+      "Bash(grep -iE 'drizzle|neondatabase|^pg$|^ws$|dotenv|typescript|tsx')",
+      "Bash(npm install *)",
+      "Bash(node *)",
+      "Bash(mkdir -p src/db)",
+      "Bash(git mv *)",
+      "Bash(mv src/schema.js src/db/schema.js)",
+      "Bash(mv src/db.js src/db/index.js)",
+      "Bash(npm run *)",
+      "Bash(git -C . rev-parse --show-toplevel)",
+      "Bash(node /private/tmp/claude-501/-Users-alirezaakbarzadeh-workshop-github-com-alireza-akbarzadeh-src-websoket/dbb088d0-cde5-4f54-80f8-7a013c9ce325/scratchpad/check.mjs)"
+    ]
+  },
   "enabledMcpjsonServers": [
     "claude-flow"
   ]

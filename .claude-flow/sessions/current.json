@@ -1,13 +1,12 @@
 {
-  "id": "session-1787599300638",
-  "startedAt": "2026-08-24T19:21:40.638Z",
+  "id": "session-1787601122991",
+  "startedAt": "2026-08-24T19:52:02.991Z",
   "cwd": "/Users/alirezaakbarzadeh/workshop/github.com/alireza-akbarzadeh/src/websoket",
   "context": {},
   "metrics": {
-    "edits": 0,
+    "edits": 2,
     "commands": 0,
     "tasks": 0,
     "errors": 0
-  },
-  "restoredAt": "2026-08-24T19:30:18.671Z"
+  }
 }
