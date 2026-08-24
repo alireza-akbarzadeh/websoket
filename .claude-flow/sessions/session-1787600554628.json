@@ -1,0 +1,14 @@
+{
+  "id": "session-1787600554628",
+  "startedAt": "2026-08-24T19:42:34.628Z",
+  "cwd": "/Users/alirezaakbarzadeh/workshop/github.com/alireza-akbarzadeh/src/websoket",
+  "context": {},
+  "metrics": {
+    "edits": 7,
+    "commands": 0,
+    "tasks": 0,
+    "errors": 0
+  },
+  "endedAt": "2026-08-24T19:52:02.840Z",
+  "duration": 568213
+}
